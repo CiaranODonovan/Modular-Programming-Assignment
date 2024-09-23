@@ -1,0 +1,6 @@
+PROGRAMMING FUNDAMENTALS	SOFT_6018	33.85	***
+MODULAR PROGRAMMING	SOFT_6017	34.62	***
+The best attended module is MODULAR PROGRAMMING with a 34.62% attendance rate.
+There is 2 module(s) with attendance under 40%:
+PROGRAMMING FUNDAMENTALS
+MODULAR PROGRAMMING
